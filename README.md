@@ -4,8 +4,6 @@ Developed by: SUBASRI R
 
 # School Administration Programe
 
-# School Administration Programe
-
 import csv
 
 def write_into_csv(info_list):
